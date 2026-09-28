@@ -1,0 +1,86 @@
+[
+ {
+  "id": "2026-09-28-daegodan-diet",
+  "blog": "daegodan",
+  "blog_id": "1542343777347946933",
+  "title": "단기간 다이어트, 2~4주 안전한 목표와 멈춰야 할 신호",
+  "labels": [
+   "다이어트",
+   "건강",
+   "Health"
+  ],
+  "html_path": "drafts/2026-09-28/daegodan-diet.html",
+  "slot": "2026-09-28 13:00"
+ },
+ {
+  "id": "2026-09-28-copyaibara-chatgpt-paid",
+  "blog": "copyaibara",
+  "blog_id": "3951196802894279865",
+  "title": "챗GPT 유료 요금제 비교, Go·Plus·Pro·Business 고르는 기준",
+  "labels": [
+   "ChatGPT",
+   "OpenAI",
+   "Pricing",
+   "Models"
+  ],
+  "html_path": "drafts/2026-09-28/copyaibara-chatgpt-paid.html",
+  "slot": "2026-09-28 13:00"
+ },
+ {
+  "id": "2026-09-28-copyaibara-grok",
+  "blog": "copyaibara",
+  "blog_id": "3951196802894279865",
+  "title": "그록 무료와 유료, 사용 한도와 SuperGrok·X Premium 선택 기준",
+  "labels": [
+   "Grok",
+   "xAI",
+   "Limits",
+   "Pricing"
+  ],
+  "html_path": "drafts/2026-09-28/copyaibara-grok.html",
+  "slot": "2026-09-28 17:30"
+ },
+ {
+  "id": "2026-09-28-copyaibara-gemini",
+  "blog": "copyaibara",
+  "blog_id": "3951196802894279865",
+  "title": "제미나이 사용법, 앱·웹·Gmail에서 처음 쓸 때 유료가 필요한 기능",
+  "labels": [
+   "Gemini",
+   "Google",
+   "Tools",
+   "Pricing"
+  ],
+  "html_path": "drafts/2026-09-28/copyaibara-gemini.html",
+  "slot": "2026-09-28 22:00"
+ },
+ {
+  "id": "2026-09-28-copyaibara-ai-image",
+  "blog": "copyaibara",
+  "blog_id": "3951196802894279865",
+  "title": "AI 이미지 만들기 무료, ChatGPT·Gemini 도구별 한도와 상업적 이용 조건",
+  "labels": [
+   "ChatGPT",
+   "Gemini",
+   "OpenAI",
+   "Google",
+   "Tools",
+   "Limits"
+  ],
+  "html_path": "drafts/2026-09-28/copyaibara-ai-image.html",
+  "slot": "2026-09-29 02:30"
+ },
+ {
+  "id": "2026-09-28-copyaibara-midjourney",
+  "blog": "copyaibara",
+  "blog_id": "3951196802894279865",
+  "title": "미드저니 사용법, 웹에서 첫 이미지까지 요금제·무료 체험 확인",
+  "labels": [
+   "Midjourney",
+   "Tools",
+   "Pricing"
+  ],
+  "html_path": "drafts/2026-09-28/copyaibara-midjourney.html",
+  "slot": "auto"
+ }
+]
