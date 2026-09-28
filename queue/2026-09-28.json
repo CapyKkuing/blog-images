@@ -82,5 +82,57 @@
   ],
   "html_path": "drafts/2026-09-28/copyaibara-midjourney.html",
   "slot": "auto"
+ },
+ {
+  "id": "2026-09-28-daegodan-cablebank",
+  "blog": "daegodan",
+  "blog_id": "1542343777347946933",
+  "title": "일체형 보조배터리, C타입·8핀·무선 방식별 장단점",
+  "labels": [
+   "보조배터리",
+   "IT",
+   "Gadget"
+  ],
+  "html_path": "drafts/2026-09-28/daegodan-cablebank.html",
+  "slot": "auto"
+ },
+ {
+  "id": "2026-09-28-daegodan-housewarming",
+  "blog": "daegodan",
+  "blog_id": "1542343777347946933",
+  "title": "집들이 선물 추천, 관계·집 상황별로 고르는 기준",
+  "labels": [
+   "선물 추천",
+   "생활",
+   "Living"
+  ],
+  "html_path": "drafts/2026-09-28/daegodan-housewarming.html",
+  "slot": "auto"
+ },
+ {
+  "id": "2026-09-28-daegodan-recorder",
+  "blog": "daegodan",
+  "blog_id": "1542343777347946933",
+  "title": "녹음기 고르는 법, 용도별 기능과 녹음 전 법적 기준",
+  "labels": [
+   "녹음기",
+   "IT",
+   "생활법률"
+  ],
+  "html_path": "drafts/2026-09-28/daegodan-recorder.html",
+  "slot": "auto"
+ },
+ {
+  "id": "2026-09-28-daegodan-retinol",
+  "blog": "daegodan",
+  "blog_id": "1542343777347946933",
+  "title": "레티놀 효과, 주름개선 기능성 확인법과 처음 쓰는 순서",
+  "labels": [
+   "레티놀",
+   "뷰티",
+   "화장품"
+  ],
+  "html_path": "drafts/2026-09-28/daegodan-retinol.html",
+  "slot": "auto"
  }
 ]
